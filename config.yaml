@@ -1,0 +1,41 @@
+baseurl: "geranim0.github.io"
+languageCode: "en-us"
+title: "Samuel Lacaille-Moisan - Software Engineer"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+  projects: "/projects/:year/:month/:day/:slug/"
+  blog: "/posts/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: About
+      url: ""
+      weight: 1
+    - name: Projects
+      url: "projects/"
+      weight: 2
+    - name: Blog
+      url: "blog/"
+      weight: 3
+    - name: Tags
+      url: "tags/"
+      weight: 5
+    - name: Contact
+      url: "contact/"
+      weight: 4
+
+params:
+  description: "Sam's portfolio"
+  footer: "&copy; Samuel Lacaille-Moisan 2020 | [Github](https://github.com/geranim0) | [Linkedin](https://www.linkedin.com/in/samuel-lacaille-moisan-608863a3/)"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
