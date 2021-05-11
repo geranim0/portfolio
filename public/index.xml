@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Samuel Lacaille-Moisan - Software Engineer</title>
+    <link>https://geranim0.github.io/</link>
+    <description>Recent content in About Me on Samuel Lacaille-Moisan - Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://geranim0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tetris Bot</title>
+      <link>https://geranim0.github.io/projects/2021/05/11/tetris-bot/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geranim0.github.io/projects/2021/05/11/tetris-bot/</guid>
+      <description>I made a Tetris bot that can play Tetris at more than 1 million blocks per second. To do that, I was inspired by someone who made something similar to this but it was running in javascript in the browser and it was really slow: took him about 2 weeks to clear 2 million lines, which is about 5 million blocks per 2 weeks. My bot, written in C++, is able to drop more than 1 million blocks per second.</description>
+    </item>
+    
+    <item>
+      <title>Finding out L1 cache size</title>
+      <link>https://geranim0.github.io/posts/2020/11/01/finding-out-l1-cache-size/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geranim0.github.io/posts/2020/11/01/finding-out-l1-cache-size/</guid>
+      <description>Using compile-time programming and TMP, I made a simple program to calculate the size of the L1 cache.
+Github link</description>
+    </item>
+    
+    <item>
+      <title>Get in touch</title>
+      <link>https://geranim0.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geranim0.github.io/contact/</guid>
+      <description>Email
+LinkedIn
+CV</description>
+    </item>
+    
+  </channel>
+</rss>

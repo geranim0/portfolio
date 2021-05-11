@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Samuel Lacaille-Moisan - Software Engineer</title>
+    <link>https://geranim0.github.io/categories/games/</link>
+    <description>Recent content in Games on Samuel Lacaille-Moisan - Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://geranim0.github.io/categories/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tetris Bot</title>
+      <link>https://geranim0.github.io/projects/2021/05/11/tetris-bot/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geranim0.github.io/projects/2021/05/11/tetris-bot/</guid>
+      <description>I made a Tetris bot that can play Tetris at more than 1 million blocks per second. To do that, I was inspired by someone who made something similar to this but it was running in javascript in the browser and it was really slow: took him about 2 weeks to clear 2 million lines, which is about 5 million blocks per 2 weeks. My bot, written in C++, is able to drop more than 1 million blocks per second.</description>
+    </item>
+    
+  </channel>
+</rss>
