@@ -8,21 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://geranim0.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Finding out L1 cache size</title>
+      <link>https://geranim0.github.io/posts/2021/05/11/finding-out-l1-cache-size/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geranim0.github.io/posts/2021/05/11/finding-out-l1-cache-size/</guid>
+      <description>Using compile-time programming and TMP, I made a simple program to calculate the size of the L1 cache. The way it works, is that it will generate arrays of length of a power of 2, and do random operations on that array for a fixed amount of iterations. The times for it to finish, for each length of the array, is calculated. To identify the size of your L1 cache, simply look at the output produced by the program.</description>
+    </item>
+    
+    <item>
       <title>Tetris Bot</title>
       <link>https://geranim0.github.io/projects/2021/05/11/tetris-bot/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://geranim0.github.io/projects/2021/05/11/tetris-bot/</guid>
       <description>I made a Tetris bot that can play Tetris at more than 1 million blocks per second. To do that, I was inspired by someone who made something similar to this but it was running in javascript in the browser and it was really slow: took him about 2 weeks to clear 2 million lines, which is about 5 million blocks per 2 weeks. My bot, written in C++, is able to drop more than 1 million blocks per second.</description>
-    </item>
-    
-    <item>
-      <title>Finding out L1 cache size</title>
-      <link>https://geranim0.github.io/posts/2020/11/01/finding-out-l1-cache-size/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://geranim0.github.io/posts/2020/11/01/finding-out-l1-cache-size/</guid>
-      <description>Using compile-time programming and TMP, I made a simple program to calculate the size of the L1 cache. The way it works, is that it will generate arrays of length of a power of 2, and do random operations on that array for a fixed amount of iterations. The times for it to finish, for each length of the array, is calculated. To identify the size of your L1 cache, simply look at the output produced by the program.</description>
     </item>
     
     <item>
