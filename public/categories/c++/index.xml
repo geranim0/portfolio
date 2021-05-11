@@ -13,8 +13,7 @@
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://geranim0.github.io/posts/2020/11/01/finding-out-l1-cache-size/</guid>
-      <description>Using compile-time programming and TMP, I made a simple program to calculate the size of the L1 cache.
-Github link</description>
+      <description>Using compile-time programming and TMP, I made a simple program to calculate the size of the L1 cache. The way it works, is that it will generate arrays of length of a power of 2, and do random operations on that array for a fixed amount of iterations. The times for it to finish, for each length of the array, is calculated. To identify the size of your L1 cache, simply look at the output produced by the program.</description>
     </item>
     
   </channel>
