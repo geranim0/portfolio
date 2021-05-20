@@ -6,15 +6,16 @@
     <description>Recent content in Games on Samuel Lacaille-Moisan - Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://geranim0.github.io/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://geranim0.github.io/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ECS using archetypes</title>
-      <link>https://geranim0.github.io/projects/2021/05/11/ecs-using-archetypes/</link>
-      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <link>https://geranim0.github.io/projects/2021/05/19/ecs-using-archetypes/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://geranim0.github.io/projects/2021/05/11/ecs-using-archetypes/</guid>
-      <description>In university I had a course on video games, and I learned about a game engine pattern called ECS. This is my own toy implementation using archetypes. It is a work in progress, but the core of the metaprogramming is there.
-ECS If you&amp;rsquo;re not already familiar with ECS, it means Entity Component System, and is a AoS (Array of Structs) optimisation, used for both performance and maintenability reasons. It helps when you have millions of game objects by reducing cache misses, and helps with maintenability because all game functionality are in little functionality units called Systems.</description>
+      <guid>https://geranim0.github.io/projects/2021/05/19/ecs-using-archetypes/</guid>
+      <description>Code can be found here
+In university I had a course on video games, and I learned about a game engine pattern called ECS. This is my own toy implementation using archetypes. It is a work in progress, but the core of the metaprogramming is there.
+ECS If you&amp;rsquo;re not already familiar with ECS, it means Entity Component System, and is a AoS (Array of Structs) optimisation, used for both performance and maintenability reasons.</description>
     </item>
     
     <item>
