@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://geranim0.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ECS using archetypes</title>
+      <link>https://geranim0.github.io/projects/2021/05/11/ecs-using-archetypes/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geranim0.github.io/projects/2021/05/11/ecs-using-archetypes/</guid>
+      <description>In university I had a course on video games, and I learned about a game engine pattern called ECS. This is my own toy implementation using archetypes. It is a work in progress, but the core of the metaprogramming is there.
+ECS If you&amp;rsquo;re not already familiar with ECS, it means Entity Component System, and is a AoS (Array of Structs) optimisation, used for both performance and maintenability reasons. It helps when you have millions of game objects by reducing cache misses, and helps with maintenability because all game functionality are in little functionality units called Systems.</description>
+    </item>
+    
+    <item>
       <title>Finding out L1 cache size</title>
       <link>https://geranim0.github.io/posts/2021/05/11/finding-out-l1-cache-size/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
